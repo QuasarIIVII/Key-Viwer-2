@@ -38,10 +38,10 @@ void defKeyLabel(){//define keyLabel
 	keyLabel[0x22]=(char*)"PgDn";
 	keyLabel[0x23]=(char*)"End";
 	keyLabel[0x24]=(char*)"Home";
-	keyLabel[0x25]=(char*)"ก็";
-	keyLabel[0x26]=(char*)"ก่";
-	keyLabel[0x27]=(char*)"กๆ";
-	keyLabel[0x28]=(char*)"ก้";
+	keyLabel[0x25]=(char*)"ยกรง";
+	keyLabel[0x26]=(char*)"ยกรจ";
+	keyLabel[0x27]=(char*)"ยกรฆ";
+	keyLabel[0x28]=(char*)"ยกรฉ";
 	keyLabel[0x29]=(char*)"Select";
 	keyLabel[0x2A]=(char*)"Print";
 	keyLabel[0x2B]=(char*)"Execute";
